@@ -3,6 +3,11 @@ Stworzyłem skrypt na blipy do modyfikacji FiveM. Zostały one przetestowane. Kt
 Jest to pierwszy mój skrypt, został on napisany z pomocą forum cfx.re.
 
 
+
+!!! PAMIĘTAJ BY DOCELOWY FOLDER NAZYWAŁ SIĘ h_blipy !!!
+!!! NIE h_blipy-main !!!
+
+
 -                                                                                            -
 --                                                                                          --
 ---                                                                                        ---
